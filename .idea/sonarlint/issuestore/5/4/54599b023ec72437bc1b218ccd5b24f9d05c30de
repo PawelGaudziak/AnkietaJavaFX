@@ -1,0 +1,7 @@
+
+asquid:S2095Ë"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ò¥Ë–
+bsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(ë·ÎÇ
+@squid:S1148ë"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+]squid:S1192Ñ"FDefine a constant instead of duplicating this literal "Error" 3 times.(’ãÒ4
+gsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(Æê™’üÿÿÿÿ
+gsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(÷Ðùÿÿÿÿ
